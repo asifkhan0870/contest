@@ -1,0 +1,41 @@
+
+
+#cardContainer{
+      
+    
+    /* color: red; */
+    margin: 12px;
+    /* height: 214px;
+    width: 234px; */
+}
+
+
+.jumbo{
+
+    background-color: black;
+    padding: 26px 34px;
+    /* margin: 1px; */
+    height: 343px;
+    width: 100%;
+    border-radius: 12px;
+    /* border: 2px solid green; */
+
+}
+
+.container{
+
+    /* background-color: rgb(202, 143, 143); */
+}
+.bg{
+    background-color: black;
+}
+
+.box{
+    border: 2px solid red;
+    background-color: red;
+}
+
+.card{
+    /* height: 123px; */
+}
+
